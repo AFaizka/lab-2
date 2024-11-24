@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1702902187 source:c:\users\Владимир\desktop\учеба\прога\laba2_project\sign.cpp
+	<iostream>
+	<string.h>
+	"Sign.h"
+
+1702463292 c:\users\Владимир\desktop\учеба\прога\laba2_project\sign.h
+	<iostream>
+	<string.h>
+
+1702902104 source:c:\users\Владимир\desktop\учеба\прога\laba2_project\storage.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	"Storage.h"
+	"Sign.h"
+
+1702463311 c:\users\Владимир\desktop\учеба\прога\laba2_project\storage.h
+	<iostream>
+	<string>
+	"Sign.h"
+
+1731519867 source:c:\users\Владимир\desktop\учеба\прога\laba2_project\textscan.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<queue>
+
+1702463329 c:\users\Владимир\desktop\учеба\прога\laba2_project\textscan.h
+
+1702902493 source:c:\users\Владимир\desktop\учеба\прога\laba2_project\main.cpp
+	<iostream>
+	"Storage.h"
+	"Sign.h"
+	"TextScan.h"
+	<string>
+	<Windows.h>
+
